@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-10T18:51:27 IST" name="Default suite" finished-at="2024-09-10T18:51:42 IST" duration-ms="15026">
+    <groups>
+    </groups>
+    <test started-at="2024-09-10T18:51:27 IST" name="Default test" finished-at="2024-09-10T18:51:42 IST" duration-ms="15026">
+      <class name="test.MiniaturesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MiniaturesTest@13c9d689]" started-at="2024-09-10T18:51:27 IST" name="setup" finished-at="2024-09-10T18:51:29 IST" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlloading()[pri:0, instance:test.MiniaturesTest@13c9d689]" started-at="2024-09-10T18:51:29 IST" name="urlloading" finished-at="2024-09-10T18:51:36 IST" duration-ms="6961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlloading -->
+        <test-method signature="test1()[pri:0, instance:test.MiniaturesTest@13c9d689]" started-at="2024-09-10T18:51:36 IST" name="test1" finished-at="2024-09-10T18:51:42 IST" duration-ms="5642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- test.MiniaturesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
